@@ -92,10 +92,10 @@ license:		creative commons CC-BY-NC-SA
 	<view name="basic">
 
 		<textlist name="gamelist">
-			<selectorColor>22313f</selectorColor>
+			<selectorColor>00ff1e99</selectorColor>
 			<selectedColor>ffffff</selectedColor>
 			<primaryColor>ffffff</primaryColor>
-			<secondaryColor>ffffff</secondaryColor>
+			<secondaryColor>000000</secondaryColor>
 			<fontPath>./art/Roboto-Regular.ttf</fontPath>
 			<fontSize>0.03</fontSize>
 			<forceUppercase>0</forceUppercase>
