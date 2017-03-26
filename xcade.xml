@@ -109,12 +109,6 @@ license:		creative commons CC-BY-NC-SA
 
 	<view name="detailed">
 
-		<image name="md_image">
-			<pos>0.025 0.22</pos>
-<!-- 			<size>0.24 0.301</size>
- -->			<maxSize>0.245 0.301</maxSize>
-			<origin>0 0</origin>
-		</image>
 		
 		<text name="md_lbl_rating">
 			<pos>0.292 0.21</pos>
@@ -205,9 +199,10 @@ license:		creative commons CC-BY-NC-SA
 		</textlist>	
 
 		<image name="md_image">
-			<pos>0.30 0.53</pos>
-			<maxSize>0.500 0.501</maxSize>
-			<origin>0.5 0.5</origin>
+			<pos>0.025 0.22</pos>
+		<!-- 			<size>0.24 0.301</size>
+		-->			<maxSize>0.245 0.301</maxSize>
+			<origin>0 0</origin>
 		</image>
 
 		<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
