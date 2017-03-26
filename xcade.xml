@@ -41,7 +41,7 @@ license:		creative commons CC-BY-NC-SA
 	<view name="basic, detailed, grid">
 
 		<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
-			<color>393a3b</color>
+			<color>ffffff</color>
 			<forceUppercase>1</forceUppercase>
 			<fontPath>./art/OPENSANS-LIGHT.TTF</fontPath>
 			<fontSize>0.03</fontSize>
@@ -50,7 +50,7 @@ license:		creative commons CC-BY-NC-SA
 		</text>
 
 		<text name="md_rating, md_developer, md_publisher, md_genre, md_players, md_playcount, md_description">
-			<color>393a3b</color>
+			<color>ffffff</color>
 			<forceUppercase>1</forceUppercase>
 			<fontPath>./art/OPENSANS-LIGHT.TTF</fontPath>
 			<fontSize>0.03</fontSize>
@@ -64,7 +64,7 @@ license:		creative commons CC-BY-NC-SA
 		</helpsystem>
 
 		<datetime name="md_releasedate, md_lastplayed">
-			<color>393a3b</color>
+			<color>ffffff</color>
 			<forceUppercase>1</forceUppercase>
 			<fontPath>./art/OPENSANS-LIGHT.TTF</fontPath>
 			<fontSize>0.03</fontSize>
