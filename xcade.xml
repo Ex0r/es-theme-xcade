@@ -18,6 +18,27 @@ license:		creative commons CC-BY-NC-SA
 			<path>./art/background.png</path>
 		</image>
 
+		<image name="header" extra="true">
+			<path>./art/header.png</path>
+			<pos>0 0</pos>
+			<origin>0 0</origin>
+			<size>1 0.16</size>
+		</image>
+
+		<image name="footer" extra="true">
+			<path>./art/footer.png</path>
+			<pos>0 1</pos>
+			<origin>0 1</origin>
+			<size>1 0.065</size>
+		</image>
+
+		<image name="logo">
+			<path>./art/xcade-logo.png</path>
+			<pos>0.025 0.0775</pos>
+			<maxSize>0.55 0.1</maxSize>
+			<origin>0 0.5</origin>
+		</image>
+
 		<helpsystem name="help">
 			<textColor>ffffff</textColor>
 			<iconColor>ffffff</iconColor>
