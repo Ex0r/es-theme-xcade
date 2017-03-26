@@ -23,6 +23,28 @@
 			<origin>0 0.5</origin>
 		</image>
 
+		<text name="system_name_1" extra="true">
+			<text>RetroPie</text>
+			<forceUppercase>1</forceUppercase>
+			<size>0.45 0.08</size>
+			<pos>0.527 0.01</pos>
+			<color>ffffff</color>
+			<fontPath>./../art/OPENSANS-LIGHT.TTF</fontPath>
+			<fontSize>0.055</fontSize>
+			<alignment>right</alignment>
+		</text>
+		
+		<text name="system_name_2" extra="true">
+			<text>Config</text>
+			<forceUppercase>1</forceUppercase>
+			<size>0.45 0.08</size>
+			<pos>0.527 0.07</pos>
+			<color>ffffff</color>
+			<fontPath>./../art/OPENSANS-LIGHT.TTF</fontPath>
+			<fontSize>0.055</fontSize>
+			<alignment>right</alignment>
+		</text>
+
 		<!-- <image name="header" extra="true">
 			<color>ec4d3b</color>
 		</image>
