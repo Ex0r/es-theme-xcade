@@ -1,27 +1,18 @@
-# es-theme-material
-Theme 'Material' v2 - 10-9-16 by Lilbud
-based on simple(c) Nils Bonenberger - nilsbyte@nilsbyte.de - http://blog.nilsbyte.de/
+# es-theme-xcade
+Theme 'xCade' v1 - 3-26-17 by EX0r
+based on 'Material' (c)by lilbud
 For use with EmulationStation (http://www.emulationstation.org/)
 
-Thanks to Herbfargus and Rookervik for testing and helping get this theme functional.
 
 Changelog
 =========
 
-Added gridview support
-
-Added Systems:
-Virtual Boy
-Gamecube
+Nothing yet
 
 Missing systems in the theme
 ============================
 
-Multiple Emulator Super System
-
-Famicom
-
-Super Famicom
+All except Super Nintendo
 
 License
 =======
@@ -98,7 +89,7 @@ individual(s) or entity(ies) granting rights under this Public License.
 NonCommercial means not primarily intended for or directed towards 
 commercial advantage or monetary compensation. For purposes of this 
 Public License, the exchange of the Licensed Material for other material 
-subject to Copyright and Similar Rights by digital file-sharing or 
+subject to Copyright and Similar Rights by digital file-sharing or l
 similar means is NonCommercial provided there is no payment of monetary 
 compensation in connection with the exchange. Share means to provide 
 material to the public by any means or process that requires permission 
