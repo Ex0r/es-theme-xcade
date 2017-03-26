@@ -2,7 +2,7 @@
     <formatVersion>3</formatVersion>
     <include>./../xcade.xml</include>
 
-	<view name="system">
+	<!-- <view name="system">
 
 		<image name="background" extra="true">
 			<color>ec4d3b</color>
@@ -12,9 +12,9 @@
 			<path>./system.svg</path>
 		</image>
 
-	</view>
+	</view> -->
 
-	<view name="basic, detailed, grid">
+	<!-- <view name="basic, detailed, grid">
 
 		<image name="logo">
 			<path>./logo.svg</path>
@@ -33,9 +33,9 @@
 			<selectorColor>ec4d3b</selectorColor>
 		</textlist>
 
-	</view>
+	</view> -->
 
-	<view name="grid">
+<!-- 	<view name="grid">
 
 		<image name="righter, header, footer" extra="true">
 			<color>ec4d3b</color>
@@ -49,6 +49,6 @@
 			<color>ec4d3b</color>
 		</image>
 
-</view>
+</view> -->
 
 </theme>
