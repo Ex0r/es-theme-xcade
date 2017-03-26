@@ -1,58 +1,78 @@
 <theme>
     <formatVersion>3</formatVersion>
-    <include>./../material.xml</include>
+    <include>./../xcade.xml</include>
 
-	<view name="system">
+	<!-- <view name="system">
 
 		<image name="background" extra="true">
-			<color>019546</color>
+			<color>ec4d3b</color>
 		</image>
 
 		<image name="logo">
 			<path>./system.svg</path>
 		</image>
 
-	</view>
+	</view> -->
 
 	<view name="basic, detailed, grid">
 
 		<image name="logo">
-			<path>./logo.svg</path>
-			<color>FFFFFF</color>
+			<path>./../art/xcade-logo.png</path>
+			<pos>0.025 0.0775</pos>
+			<maxSize>0.55 0.1</maxSize>
+			<origin>0 0.5</origin>
 		</image>
 
-		<image name="header" extra="true">
-			<color>019546</color>
+		<text name="system_name_1" extra="true">
+			<text>Super Nintendo</text>
+			<forceUppercase>1</forceUppercase>
+			<size>0.45 0.08</size>
+			<pos>0.527 0.01</pos>
+			<color>ffffff</color>
+			<fontPath>./../art/OPENSANS-LIGHT.TTF</fontPath>
+			<fontSize>0.055</fontSize>
+			<alignment>right</alignment>
+		</text>
+		
+		<text name="system_name_2" extra="true">
+			<text>Entertainment System</text>
+			<forceUppercase>1</forceUppercase>
+			<size>0.45 0.08</size>
+			<pos>0.527 0.07</pos>
+			<color>ffffff</color>
+			<fontPath>./../art/OPENSANS-LIGHT.TTF</fontPath>
+			<fontSize>0.055</fontSize>
+			<alignment>right</alignment>
+		</text>
+
+		<!-- <image name="header" extra="true">
+			<color>ec4d3b</color>
 		</image>
 
 		<image name="footer" extra="true">
-			<color>019546</color>
+			<color>ec4d3b</color>
 		</image>
 
 		<textlist name="gamelist">
-			<selectorColor>019546</selectorColor>
-		</textlist>
+			<selectorColor>ec4d3b</selectorColor>
+		</textlist> -->
 
 	</view>
 
-	<view name="grid">
+<!-- 	<view name="grid">
 
 		<image name="righter, header, footer" extra="true">
-			<color>019546</color>
+			<color>ec4d3b</color>
 		</image>
 
-		<image name="logo" extra="true">
+		<image name="logo">
 			<path>./logo.svg</path>
 		</image>
 		
-		<container name="gridRowsAndColumns">
-			<size>4 3</size>
-		</container>
-		
 		<image name="gridtile_background_selected">
-			<color>019546</color>
+			<color>ec4d3b</color>
 		</image>
 
-</view>
+</view> -->
 
 </theme>
