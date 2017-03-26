@@ -109,7 +109,7 @@ license:		creative commons CC-BY-NC-SA
 
 	<view name="detailed">
 
-		<!-- 
+		
 		<text name="md_lbl_rating">
 			<pos>0.292 0.21</pos>
 		</text>
@@ -182,7 +182,7 @@ license:		creative commons CC-BY-NC-SA
 		<text name="md_description">
 			<size>0.52 0.3</size>
 			<pos>0.025 0.577</pos>
-		</text> -->
+		</text>
 
 		<textlist name="gamelist">
 			<selectorColor>00ff1e99</selectorColor>
