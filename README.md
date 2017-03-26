@@ -1,5 +1,5 @@
 # es-theme-xcade
-Theme 'xCade' v1 - 13-26-17 by EX0r
+Theme 'xCade' v1 - 3-26-17 by EX0r
 based on 'Material' (c)by lilbud
 For use with EmulationStation (http://www.emulationstation.org/)
 
