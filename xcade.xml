@@ -32,7 +32,7 @@ license:		creative commons CC-BY-NC-SA
 			<size>1 0.065</size>
 		</image>
 
-		<image name="logo">
+		<image name="logo" extra="true">
 			<path>./art/xcade-logo.png</path>
 			<pos>0.025 0.0775</pos>
 			<maxSize>0.55 0.1</maxSize>
