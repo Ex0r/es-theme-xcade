@@ -3,7 +3,6 @@
     <include>./../xcade.xml</include>
 
 	<view name="basic, detailed, grid">
-
 		<image name="logo">
 			<path>./../art/xcade-logo.png</path>
 			<pos>0.025 0.0775</pos>
@@ -32,7 +31,5 @@
 			<fontSize>0.055</fontSize>
 			<alignment>right</alignment>
 		</text>
-
 	</view>
-
 </theme>
