@@ -17,8 +17,10 @@
 	<view name="basic, detailed, grid">
 
 		<image name="logo">
-			<path>./../xcade-logo.png</path>
-			<!-- <color>FFFFFF</color> -->
+			<path>./../art/xcade-logo.png</path>
+			<pos>0.025 0.0775</pos>
+			<maxSize>0.55 0.1</maxSize>
+			<origin>0 0.5</origin>
 		</image>
 
 		<!-- <image name="header" extra="true">
