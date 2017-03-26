@@ -16,13 +16,6 @@
 
 	<view name="basic, detailed, grid">
 
-		<!-- <image name="md_image">
-			<pos>0.025 0.22</pos>
-		 			<size>0.24 0.301</size>
-					<maxSize>0.245 0.301</maxSize>
-			<origin>0 0</origin>
-		</image> -->
-
 		<image name="logo">
 			<path>./../art/xcade-logo.png</path>
 			<pos>0.025 0.0775</pos>
@@ -139,7 +132,7 @@
 		<text name="md_rating, md_developer, md_publisher, md_genre, md_players, md_playcount">
 			<color>00ff1e99</color>
 			<forceUppercase>1</forceUppercase>
-			<fontPath>./art/OPENSANS-LIGHT.TTF</fontPath>
+			<fontPath>./../art/OPENSANS-LIGHT.TTF</fontPath>
 			<fontSize>0.03</fontSize>
 			<size>0.14 0.04</size>
 		</text>
@@ -147,46 +140,18 @@
 		<text name="md_description">
 			<color>ffffff</color>
 			<forceUppercase>1</forceUppercase>
-			<fontPath>./art/OPENSANS-LIGHT.TTF</fontPath>
+			<fontPath>./../art/OPENSANS-LIGHT.TTF</fontPath>
 			<fontSize>0.03</fontSize>
 		</text>
 		
 		<datetime name="md_releasedate, md_lastplayed">
 			<color>ffffff</color>
 			<forceUppercase>1</forceUppercase>
-			<fontPath>./art/OPENSANS-LIGHT.TTF</fontPath>
+			<fontPath>./../art/OPENSANS-LIGHT.TTF</fontPath>
 			<fontSize>0.03</fontSize>
 			<size>0 0.04</size>
 		</datetime>
 
-		<!-- <image name="header" extra="true">
-			<color>ec4d3b</color>
-		</image>
-
-		<image name="footer" extra="true">
-			<color>ec4d3b</color>
-		</image>
-
-		<textlist name="gamelist">
-			<selectorColor>ec4d3b</selectorColor>
-		</textlist> -->
-
 	</view>
-
-<!-- 	<view name="grid">
-
-		<image name="righter, header, footer" extra="true">
-			<color>ec4d3b</color>
-		</image>
-
-		<image name="logo">
-			<path>./logo.svg</path>
-		</image>
-		
-		<image name="gridtile_background_selected">
-			<color>ec4d3b</color>
-		</image>
-
-</view> -->
 
 </theme>
