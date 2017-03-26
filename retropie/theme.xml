@@ -2,18 +2,6 @@
     <formatVersion>3</formatVersion>
     <include>./../xcade.xml</include>
 
-	<!-- <view name="system">
-
-		<image name="background" extra="true">
-			<color>ec4d3b</color>
-		</image>
-
-		<image name="logo">
-			<path>./system.svg</path>
-		</image>
-
-	</view> -->
-
 	<view name="basic, detailed, grid">
 
 		<image name="logo">
@@ -45,34 +33,6 @@
 			<alignment>right</alignment>
 		</text>
 
-		<!-- <image name="header" extra="true">
-			<color>ec4d3b</color>
-		</image>
-
-		<image name="footer" extra="true">
-			<color>ec4d3b</color>
-		</image>
-
-		<textlist name="gamelist">
-			<selectorColor>ec4d3b</selectorColor>
-		</textlist> -->
-
 	</view>
-
-<!-- 	<view name="grid">
-
-		<image name="righter, header, footer" extra="true">
-			<color>ec4d3b</color>
-		</image>
-
-		<image name="logo">
-			<path>./logo.svg</path>
-		</image>
-		
-		<image name="gridtile_background_selected">
-			<color>ec4d3b</color>
-		</image>
-
-</view> -->
 
 </theme>
