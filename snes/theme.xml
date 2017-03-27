@@ -2,10 +2,10 @@
     <formatVersion>3</formatVersion>
     <include>./../xcade.xml</include>
 
-    <view name="system">
+    <!-- <view name="system">
       <image name="logo">
       	<path>./snes.svg</path>
-    </view>
+    </view> -->
 
 	<view name="basic, detailed">
 		<image name="logo">
