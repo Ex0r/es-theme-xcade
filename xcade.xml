@@ -10,6 +10,14 @@ license:		creative commons CC-BY-NC-SA
     <formatVersion>4</formatVersion>
 
 	<view name="system">
+
+	   <image name="xcade" extra="true">
+			<path>./art/xcade-logo.png</path>
+			<pos>0.025 0.0775</pos>
+			<maxSize>0.55 0.1</maxSize>
+			<origin>0 0.5</origin>
+		</image>
+
 		<image name="background" extra="true">
 			<tile>true</tile>
 			<pos>0 0</pos>
