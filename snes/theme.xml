@@ -7,7 +7,7 @@
       	<path>./snes.svg</path>
     </view>
 
-	<view name="basic, detailed, grid">
+	<view name="basic, detailed">
 		<image name="logo">
 			<path>./../art/xcade-logo.png</path>
 			<pos>0.025 0.0775</pos>
