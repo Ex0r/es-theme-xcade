@@ -8,7 +8,7 @@
     </view>
 
 	<view name="basic, detailed">
-		<image name="xcade" extra="true">
+		<image name="logo">
 			<path>./../art/xcade-logo.png</path>
 			<pos>0.025 0.0775</pos>
 			<maxSize>0.55 0.1</maxSize>
