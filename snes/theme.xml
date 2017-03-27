@@ -2,6 +2,11 @@
     <formatVersion>3</formatVersion>
     <include>./../xcade.xml</include>
 
+    <view name="system">
+      <image name="logo">
+      	<path>./snes.svg</path>
+    </view>
+
 	<view name="basic, detailed, grid">
 		<image name="logo">
 			<path>./../art/xcade-logo.png</path>
