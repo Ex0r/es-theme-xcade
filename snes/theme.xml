@@ -14,7 +14,7 @@
 			<text>Super Nintendo</text>
 			<forceUppercase>1</forceUppercase>
 			<size>0.45 0.08</size>
-			<pos>0.527 0.01</pos>
+			<pos>0.527 0.00</pos>
 			<color>ffffff</color>
 			<fontPath>./../art/OPENSANS-LIGHT.TTF</fontPath>
 			<fontSize>0.055</fontSize>
@@ -25,7 +25,7 @@
 			<text>Entertainment System</text>
 			<forceUppercase>1</forceUppercase>
 			<size>0.45 0.08</size>
-			<pos>0.527 0.07</pos>
+			<pos>0.527 0.06</pos>
 			<color>ffffff</color>
 			<fontPath>./../art/OPENSANS-LIGHT.TTF</fontPath>
 			<fontSize>0.055</fontSize>
