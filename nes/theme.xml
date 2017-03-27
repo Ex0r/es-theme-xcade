@@ -1,0 +1,41 @@
+<theme>
+    <formatVersion>3</formatVersion>
+    <include>./../xcade.xml</include>
+
+    <view name="system">
+	   <image name="logo">
+	   	<path>./nes.svg</path>
+		</image>
+	</view>
+
+	<view name="basic, detailed">
+		<image name="xcade" extra="true">
+			<path>./../art/xcade-logo.png</path>
+			<pos>0.025 0.0775</pos>
+			<maxSize>0.55 0.1</maxSize>
+			<origin>0 0.5</origin>
+		</image>
+
+		<text name="system_name_1" extra="true">
+			<text>Nintendo</text>
+			<forceUppercase>1</forceUppercase>
+			<size>0.45 0.08</size>
+			<pos>0.527 0.00</pos>
+			<color>ffffff</color>
+			<fontPath>./../art/OPENSANS-LIGHT.TTF</fontPath>
+			<fontSize>0.055</fontSize>
+			<alignment>right</alignment>
+		</text>
+		
+		<text name="system_name_2" extra="true">
+			<text>Entertainment System</text>
+			<forceUppercase>1</forceUppercase>
+			<size>0.45 0.08</size>
+			<pos>0.527 0.06</pos>
+			<color>ffffff</color>
+			<fontPath>./../art/OPENSANS-LIGHT.TTF</fontPath>
+			<fontSize>0.055</fontSize>
+			<alignment>right</alignment>
+		</text>
+	</view>
+</theme>
