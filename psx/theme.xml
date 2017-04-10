@@ -4,7 +4,7 @@
     
     <view name="system">
       <image name="logo">
-        <path>./genesis.svg</path>
+        <path>./psx.svg</path>
       </image>
     </view>
 
@@ -17,7 +17,7 @@
 		</image>
 
 		<text name="system_name_1" extra="true">
-			<text>Sega</text>
+			<text>Sony</text>
 			<forceUppercase>1</forceUppercase>
 			<size>0.45 0.08</size>
 			<pos>0.527 0.00</pos>
@@ -28,7 +28,7 @@
 		</text>
 		
 		<text name="system_name_2" extra="true">
-			<text>Genesis</text>
+			<text>Playstation</text>
 			<forceUppercase>1</forceUppercase>
 			<size>0.45 0.08</size>
 			<pos>0.527 0.06</pos>

@@ -10,6 +10,14 @@ license:		creative commons CC-BY-NC-SA
     <formatVersion>4</formatVersion>
 
 	<view name="system">
+
+	   <image name="logo">
+			<path>./art/xcade-logo.png</path>
+			<pos>0.025 0.0775</pos>
+			<maxSize>0.55 0.1</maxSize>
+			<origin>0 0.5</origin>
+		</image>
+
 		<image name="background" extra="true">
 			<tile>true</tile>
 			<pos>0 0</pos>
@@ -23,13 +31,6 @@ license:		creative commons CC-BY-NC-SA
 			<pos>0 0</pos>
 			<origin>0 0</origin>
 			<size>1 0.16</size>
-		</image>
-
-		<image name="xcade" extra="true">
-			<path>./art/xcade-logo.png</path>
-			<pos>0.025 0.0775</pos>
-			<maxSize>0.55 0.1</maxSize>
-			<origin>0 0.5</origin>
 		</image>
 
 		<image name="footer" extra="true">
@@ -116,7 +117,7 @@ license:		creative commons CC-BY-NC-SA
 			<fontPath>./art/Roboto-Regular.ttf</fontPath>
 			<fontSize>0.03</fontSize>
 			<forceUppercase>0</forceUppercase>
-			<pos>0.025 0.18</pos>
+			<pos>0.012 0.18</pos>
 			<size>0.950 0.73</size>
 			<alignment>center</alignment>
 			<horizontalMargin>0.01</horizontalMargin>
@@ -212,7 +213,7 @@ license:		creative commons CC-BY-NC-SA
 			<fontSize>0.03</fontSize>
 			<forceUppercase>0</forceUppercase>
 			<!-- <pos>0.550 0.28</pos> -->
-			<pos>0.550 0.25</pos>
+			<pos>0.550 0.20</pos>
 			<size>0.360 0.50</size>
 			<alignment>left</alignment>
 			<horizontalMargin>0.01</horizontalMargin>

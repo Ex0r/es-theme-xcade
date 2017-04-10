@@ -1,12 +1,12 @@
 <theme>
     <formatVersion>3</formatVersion>
     <include>./../xcade.xml</include>
-
+    
     <view name="system">
-	   <image name="logo">
-	   	<path>./nes.svg</path>
-		</image>
-	</view>
+      <image name="logo">
+        <path>./nes.svg</path>
+      </image>
+    </view>
 
 	<view name="basic, detailed">
 		<image name="xcade" extra="true">

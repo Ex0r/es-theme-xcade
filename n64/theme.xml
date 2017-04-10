@@ -1,12 +1,12 @@
 <theme>
     <formatVersion>3</formatVersion>
     <include>./../xcade.xml</include>
-
+    
     <view name="system">
-	   <image name="logo">
-	   	<path>./n64.svg</path>
-		</image>
-	</view>
+      <image name="logo">
+        <path>./n64.svg</path>
+      </image>
+    </view>
 
 	<view name="basic, detailed">
 		<image name="xcade" extra="true">
@@ -27,15 +27,15 @@
 			<alignment>right</alignment>
 		</text>
 		
-<!-- 		<text name="system_name_2" extra="true">
-			<text>Entertainment System</text>
-			<forceUppercase>1</forceUppercase>
-			<size>0.45 0.08</size>
-			<pos>0.527 0.06</pos>
-			<color>ffffff</color>
-			<fontPath>./../art/OPENSANS-LIGHT.TTF</fontPath>
-			<fontSize>0.055</fontSize>
-			<alignment>right</alignment>
-		</text> -->
+		<!-- <text name="system_name_2" extra="true"> -->
+			<!-- <text>Entertainment System</text> -->
+			<!-- <forceUppercase>1</forceUppercase> -->
+			<!-- <size>0.45 0.08</size> -->
+			<!-- <pos>0.527 0.06</pos> -->
+			<!-- <color>ffffff</color> -->
+			<!-- <fontPath>./../art/OPENSANS-LIGHT.TTF</fontPath> -->
+			<!-- <fontSize>0.055</fontSize> -->
+			<!-- <alignment>right</alignment> -->
+		<!-- </text> -->
 	</view>
 </theme>
