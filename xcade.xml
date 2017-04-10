@@ -212,7 +212,6 @@ license:		creative commons CC-BY-NC-SA
 			<fontPath>./art/Roboto-Regular.ttf</fontPath>
 			<fontSize>0.03</fontSize>
 			<forceUppercase>0</forceUppercase>
-			<!-- <pos>0.550 0.28</pos> -->
 			<pos>0.550 0.20</pos>
 			<size>0.360 0.50</size>
 			<alignment>left</alignment>
